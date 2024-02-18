@@ -9,7 +9,7 @@ fn main() {
     remove_variable();
     let book: Book = Book::new(
         "The Rust Programming Language",
-        "Steve Klabnik & Carol Nichols",
+        "Steve Kabuki & Carol Nichols",
         600,
     );
     book.description();
